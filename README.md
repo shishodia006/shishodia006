@@ -1,6 +1,6 @@
 <p align="center" dir="auto">
   <a href="https://github.com/vinayakbaranwal12" rel="nofollow">
-  <img src="https://media.licdn.com/dms/image/D4D16AQGbOmSGkM6VGQ/profile-displaybackgroundimage-shrink_200_800/0/1683220121429?e=2147483647&v=beta&t=XMvGO2kiLLqLTU9hJ4g3jSdmdbD6p5NXYtiKU32prYA" alt="header image" style="max-width: 100%;">
+  <img src="https://media.licdn.com/dms/image/v2/C4D16AQGf2Qg4Z2vWAA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1657647242756?e=1771459200&v=beta&t=JAKL-5iL0iKuQMa0Ez0jb0FHZQ9XeTZg7YzyxSmNmT4" alt="header image" style="max-width: 100%;">
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 - Aspiring Developer
 -->
 
-<p align="center"> <a href="https://www.linkedin.com/in/bhanu-shishodia-3803ab208" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Bhanu Shishodia" /></a> &nbsp; <a href="mailto:b.bhanushishodia123@gmail.com" target="blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="starkmk85@proton.me" /></a> &nbsp; <a href="https://instagram.com/vinayakbaranwal9" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> <!--a href="https://hypweb.in/vinayakportfolio" rel="nofollow"><img src="https://camo.githubusercontent.com/5ca8cb0e83604fdfb3cb339938a06d51d61d38ccf32649c7e35f9311f128e35e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d3761356334623f7374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/badge/Portfolio-7a5c4b?style=for-the-badge" style="max-width: 100%;">
+<p align="center"> <a href="https://www.linkedin.com/in/bhanu-shishodia-3803ab208" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Bhanu Shishodia" /></a> &nbsp; <a href="mailto:b.bhanushishodia123@gmail.com" target="blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="" /></a> &nbsp; <a href="https://instagram.com/vinayakbaranwal9" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> <!--a href="https://hypweb.in/vinayakportfolio" rel="nofollow"><img src="https://camo.githubusercontent.com/5ca8cb0e83604fdfb3cb339938a06d51d61d38ccf32649c7e35f9311f128e35e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d3761356334623f7374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/badge/Portfolio-7a5c4b?style=for-the-badge" style="max-width: 100%;">
 </a-->
 </p>
 
@@ -24,7 +24,7 @@
 
 
 ## About Me
-Hi there, I'm Bhanu Pratap, a Full Stack Developer and System Administrator. I am passionate about building innovative and scalable solutions using various web technologies. I am proficient in Android, PHP, Angular, AWS, Azure, Codeigniter, CSS, Dart, Django, Docker, Firebase, Flutter, Google Cloud, Heroku, HTML, Java, Javascript, Kotlin, Laravel, Linux, MySQL, MongoDB, MariaDB, MS SQL Server, NGINX, Apache, Node.js, Next.js, Oracle, PHP, PostgreSQL, Python, React, React Native, SQLite, and Typescript. I am currently exploring Natural Language Processing (NLP) and AI-Tensorflow.
+Hi there, I'm Bhanu Pratap, a Full Stack Developer. I am passionate about building innovative and scalable solutions using various web technologies. I am proficient in  PHP, Angular, AWS, Azure, CSS, Dart, Django, Docker, Firebase,  Google Cloud, , HTML, Java, Javascript,  Linux, MySQL, MongoDB,  MS SQL Server, NGINX, Apache, Node.js, Next.js, Oracle, PHP, PostgreSQL, Python, React, and Typescript. I am currently exploring Natural Language Processing (NLP) and AI-Tensorflow.
 
 
 ## Buy me a Coffee
