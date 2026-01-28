@@ -4,19 +4,19 @@
   </a>
 </p>
 
-<!--<h1 align="center">Hi 👋, I'm Vinayak Baranwal</h1>-->
+<!--<h1 align="center">Hi 👋, I'm Bhanu Pratap</h1>-->
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <!--
-- 👋 Hi, I’m @vinayakbaranwal12
+- 👋 Hi, I’m shishodia006
 - 👀 I’m interested in Python3 and Javascript
 - 🌱 I’m currently learning NLP and AI-Tensorflow
 - 💞️ I’m looking to collaborate on NLP Based Project
-- 📫 reach me vinayakbaranwal12@gmail.com
-- I am stydying B.Tech CSE
+- 📫 reach me b.bhanushishodia123@gmail.com
+
 - Aspiring Developer
 -->
 
-<p align="center"> <a href="https://www.linkedin.com/in/vinayakbaranwal12" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vinayakbaranwal12" /></a> &nbsp; <a href="mailto:starkmk85@proton.me" target="blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="starkmk85@proton.me" /></a> &nbsp; <a href="https://instagram.com/vinayakbaranwal9" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> <!--a href="https://hypweb.in/vinayakportfolio" rel="nofollow"><img src="https://camo.githubusercontent.com/5ca8cb0e83604fdfb3cb339938a06d51d61d38ccf32649c7e35f9311f128e35e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d3761356334623f7374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/badge/Portfolio-7a5c4b?style=for-the-badge" style="max-width: 100%;">
+<p align="center"> <a href="https://www.linkedin.com/in/bhanu-shishodia-3803ab208" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Bhanu Shishodia" /></a> &nbsp; <a href="mailto:b.bhanushishodia123@gmail.com" target="blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="starkmk85@proton.me" /></a> &nbsp; <a href="https://instagram.com/vinayakbaranwal9" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> <!--a href="https://hypweb.in/vinayakportfolio" rel="nofollow"><img src="https://camo.githubusercontent.com/5ca8cb0e83604fdfb3cb339938a06d51d61d38ccf32649c7e35f9311f128e35e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d3761356334623f7374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/badge/Portfolio-7a5c4b?style=for-the-badge" style="max-width: 100%;">
 </a-->
 </p>
 
@@ -24,17 +24,11 @@
 
 
 ## About Me
-Hi there, I'm Vinayak Baranwal, a Full Stack Developer and System Administrator. I am passionate about building innovative and scalable solutions using various web technologies. I am proficient in Android, PHP, Angular, AWS, Azure, Codeigniter, CSS, Dart, Django, Docker, Firebase, Flutter, Google Cloud, Heroku, HTML, Java, Javascript, Kotlin, Laravel, Linux, MySQL, MongoDB, MariaDB, MS SQL Server, NGINX, Apache, Node.js, Next.js, Oracle, PHP, PostgreSQL, Python, React, React Native, SQLite, and Typescript. I am currently exploring Natural Language Processing (NLP) and AI-Tensorflow.
+Hi there, I'm Bhanu Pratap, a Full Stack Developer and System Administrator. I am passionate about building innovative and scalable solutions using various web technologies. I am proficient in Android, PHP, Angular, AWS, Azure, Codeigniter, CSS, Dart, Django, Docker, Firebase, Flutter, Google Cloud, Heroku, HTML, Java, Javascript, Kotlin, Laravel, Linux, MySQL, MongoDB, MariaDB, MS SQL Server, NGINX, Apache, Node.js, Next.js, Oracle, PHP, PostgreSQL, Python, React, React Native, SQLite, and Typescript. I am currently exploring Natural Language Processing (NLP) and AI-Tensorflow.
 
 
 ## Buy me a Coffee
-<p align="center"> <a href="https://paypal.me/baranwalvinayak" target="blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" /></a> &nbsp; <p align="center">
-  <strong>BINANCE ID:</strong> 305916389<br>
-  <strong>Name:</strong> Stark_Inc<br><br>
-  <strong>USDT TRC 20:</strong> TT9ywzStYQFhP7ACLZbAE4du2DWccwjeiY<br>
-  <strong>USDT BEP20:</strong> 0x40b36ed4d4771377b3958e8626bd15063b2178ff<br>
-  <strong>USDT ERC20:</strong> 0x40b36ed4d4771377b3958e8626bd15063b2178ff
-</p></p>
+
 
 ##
 <h3 align="center">Languages and Tools:</h3>
