@@ -20,7 +20,7 @@
 </a-->
 </p>
 
-<!-- - 📫 How to reach me **vinayakbaranwal12@gmail.com / starkmk85@proton.me**-->
+
 
 
 ## About Me
